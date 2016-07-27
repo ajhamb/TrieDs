@@ -1,0 +1,9 @@
+C:\Programming\Net\TrieDs\TrieDsUnitTest\bin\Debug\TrieDsUnitTest.dll
+C:\Programming\Net\TrieDs\TrieDsUnitTest\bin\Debug\TrieDsUnitTest.pdb
+C:\Programming\Net\TrieDs\TrieDsUnitTest\bin\Debug\nunit.framework.dll
+C:\Programming\Net\TrieDs\TrieDsUnitTest\bin\Debug\TrieDs.dll
+C:\Programming\Net\TrieDs\TrieDsUnitTest\bin\Debug\TrieDs.pdb
+C:\Programming\Net\TrieDs\TrieDsUnitTest\bin\Debug\nunit.framework.xml
+C:\Programming\Net\TrieDs\TrieDsUnitTest\obj\Debug\TrieDsUnitTest.csprojResolveAssemblyReference.cache
+C:\Programming\Net\TrieDs\TrieDsUnitTest\obj\Debug\TrieDsUnitTest.dll
+C:\Programming\Net\TrieDs\TrieDsUnitTest\obj\Debug\TrieDsUnitTest.pdb

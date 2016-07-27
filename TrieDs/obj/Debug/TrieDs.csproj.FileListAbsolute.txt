@@ -1,0 +1,5 @@
+C:\Programming\Net\TrieDs\TrieDs\bin\Debug\TrieDs.dll
+C:\Programming\Net\TrieDs\TrieDs\bin\Debug\TrieDs.pdb
+C:\Programming\Net\TrieDs\TrieDs\obj\Debug\TrieDs.csprojResolveAssemblyReference.cache
+C:\Programming\Net\TrieDs\TrieDs\obj\Debug\TrieDs.dll
+C:\Programming\Net\TrieDs\TrieDs\obj\Debug\TrieDs.pdb
