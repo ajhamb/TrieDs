@@ -7,3 +7,14 @@ C:\Programming\Net\TrieDs\TrieDsUnitTest\bin\Debug\nunit.framework.xml
 C:\Programming\Net\TrieDs\TrieDsUnitTest\obj\Debug\TrieDsUnitTest.csprojResolveAssemblyReference.cache
 C:\Programming\Net\TrieDs\TrieDsUnitTest\obj\Debug\TrieDsUnitTest.dll
 C:\Programming\Net\TrieDs\TrieDsUnitTest\obj\Debug\TrieDsUnitTest.pdb
+C:\Programming\TrieDs\TrieDsUnitTest\obj\Debug\TrieDsUnitTest.csproj.CoreCompileInputs.cache
+C:\Programming\TrieDs\TrieDsUnitTest\bin\Debug\TrieDsUnitTest.dll
+C:\Programming\TrieDs\TrieDsUnitTest\bin\Debug\TrieDsUnitTest.pdb
+C:\Programming\TrieDs\TrieDsUnitTest\bin\Debug\nunit.framework.dll
+C:\Programming\TrieDs\TrieDsUnitTest\bin\Debug\TrieDs.dll
+C:\Programming\TrieDs\TrieDsUnitTest\bin\Debug\TrieDs.pdb
+C:\Programming\TrieDs\TrieDsUnitTest\bin\Debug\nunit.framework.xml
+C:\Programming\TrieDs\TrieDsUnitTest\obj\Debug\TrieDsUnitTest.csproj.CopyComplete
+C:\Programming\TrieDs\TrieDsUnitTest\obj\Debug\TrieDsUnitTest.dll
+C:\Programming\TrieDs\TrieDsUnitTest\obj\Debug\TrieDsUnitTest.pdb
+C:\Programming\TrieDs\TrieDsUnitTest\obj\Debug\TrieDsUnitTest.csproj.AssemblyReference.cache

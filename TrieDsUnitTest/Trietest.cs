@@ -14,7 +14,7 @@ namespace TrieDsUnitTest
         [Test]
         public void TestTrieAddAndSearch()
         {
-            string[] Words = { "Amit", "Rohit", "Rohita" };
+            string[] Words = { "Amit", "Rohit", "Rohita", "Rohit" };
 
             ITrie<string> trie = new SuffixTrie<string>();
 
